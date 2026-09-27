@@ -61,7 +61,7 @@ to the curvature of the wrist instead of sitting flat on it.
 - Heat-set insert bosses rather than self-tapping screws into plastic
 - Cold-face window on the underside for direct skin contact
 
-**CAD:** designed in Shapr3D. Source and export files in [`/cad`](./cad).
+**CAD:** designed in Shapr3D. STEP and STL files will be published here shortly.
 
 ### Printing
 
@@ -77,6 +77,11 @@ to the curvature of the wrist instead of sitting flat on it.
 > for any part in the hot-side thermal path.
 
 ## Repository layout
+
+/cad        Shapr3D source + STEP exports   (coming soon)
+/stl        Print-ready meshes              (coming soon)
+/docs       Assembly photos and notes
+/bom        Bill of materials               (coming soon)
 
 ```
 /cad        Shapr3D source + STEP exports
